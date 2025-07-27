@@ -24,4 +24,4 @@ The backend is intentionally simple, consisting of a single Node.js file that us
 
 This project is perfect for anyone learning real-time web development or wanting to improve their portfolio with a practical example of WebSocket implementation. It provides a solid base to build upon. You could easily add features like nicknames, timestamps, typing indicators, or even emojis. Whether you’re learning, showcasing, or experimenting, this real-time chat app combines responsiveness, interactivity, and live communication in a compact format.
 
-*OUTPUT*: 
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/f1ebb9b0-f6fd-4ae5-9554-2bc4f8a73c5d)
